@@ -7,7 +7,9 @@ var SALT_WORK_FACTOR = 10;
 //var dbURI = 'mongodb://localhost/leavemarks';
 
 
-var dbURI = 'mongodb://mallikarjuna:malli1208@ds137281.mlab.com:37281/leavemarks';
+//var dbURI = 'mongodb://mallikarjuna:malli1208@ds137281.mlab.com:37281/leavemarks';
+
+var dbURI = 'mongodb://mallikarjuna:malli1208@ds133251.mlab.com:33251/nodejsfirst';
 
 
 mongoose.connect(dbURI);
